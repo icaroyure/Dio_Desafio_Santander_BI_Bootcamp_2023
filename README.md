@@ -8,4 +8,5 @@
  
  - 'Dash 1" e "Dash 2" são imagens do relatório salvas em formato jpg.
 
- - Link para visualização do BI: https://app.powerbi.com/view?r=eyJrIjoiZjRlMzMxNjgtZTAyNC00ZWNkLTliYzAtZmM3Nzg1NzhhZjUxIiwidCI6IjMzMmZjZmNiLTY0NTMtNDA3OS05NGFjLTY0NDMxYzYzOTQ0OSJ9
+ - Link para visualização do BI: [https://app.powerbi.com/view?r=eyJrIjoiZjRlMzMxNjgtZTAyNC00ZWNkLTliYzAtZmM3Nzg1NzhhZjUxIiwidCI6IjMzMmZjZmNiLTY0NTMtNDA3OS05NGFjLTY0NDMxYzYzOTQ0OSJ9
+](https://app.powerbi.com/view?r=eyJrIjoiZjRlMzMxNjgtZTAyNC00ZWNkLTliYzAtZmM3Nzg1NzhhZjUxIiwidCI6IjMzMmZjZmNiLTY0NTMtNDA3OS05NGFjLTY0NDMxYzYzOTQ0OSJ9)https://app.powerbi.com/view?r=eyJrIjoiZjRlMzMxNjgtZTAyNC00ZWNkLTliYzAtZmM3Nzg1NzhhZjUxIiwidCI6IjMzMmZjZmNiLTY0NTMtNDA3OS05NGFjLTY0NDMxYzYzOTQ0OSJ9
